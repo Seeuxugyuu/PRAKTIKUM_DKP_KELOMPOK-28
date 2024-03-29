@@ -1,4 +1,5 @@
 #Revo Risky Pratama (21120123120015)
+#Bimo Kusumo Putro Wicaksono (21120123120029)
 
 from Method import *
 
@@ -7,7 +8,7 @@ harga = []
 
 def hitung_total_harga():
     return sum(harga)
-
+    
 def input_uang_pembayaran():
     return int(input("Uang Pembayaran:    | Rp"))
 
