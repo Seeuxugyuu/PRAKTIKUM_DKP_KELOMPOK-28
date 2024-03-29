@@ -1,5 +1,6 @@
 #Revo Risky Pratama (21120123120015)
 #Bimo Kusumo Putro Wicaksono (21120123120029)
+#Kevin Ilham Ramadhan (21120123130098)
 
 from Method import *
 
