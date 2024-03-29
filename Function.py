@@ -1,3 +1,5 @@
+#Revo Risky Pratama (21120123120015)
+
 from Method import *
 
 menu = []
