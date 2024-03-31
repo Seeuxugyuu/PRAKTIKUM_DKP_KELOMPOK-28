@@ -2,6 +2,7 @@
 #Bimo Kusumo Putro Wicaksono (21120123120029)
 #Kevin Ilham Ramadhan (21120123130098)
 #Awallin Yusuf Ikrar Putra (21120123140045)
+
 from Method import *
 
 menu = []
